@@ -1,10 +1,7 @@
 {
   "$schema": "../../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../../dist/libs/ui/button",
+  "dest": "../../../dist/libs/ui/typography",
   "lib": {
     "entryFile": "src/index.ts"
-  },
-  "allowedNonPeerDependencies": [
-    "@alfabit-alura/*"
-  ]
+  }
 }
