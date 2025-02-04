@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "tslib": "^2.3.0",
-    "@alfabit-alura/typography": "^1.0.0"
+    "@alfabit-alura/typography": "^1.1.0"
   },
   "sideEffects": false,
   "publishConfig": {
